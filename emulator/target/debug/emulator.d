@@ -1,0 +1,1 @@
+C:\Users\jayso\OneDrive\Desktop\Desk\Code\chip8\emulator\target\debug\emulator.exe: C:\Users\jayso\OneDrive\Desktop\Desk\Code\chip8\emulator\src\drivers\mod.rs C:\Users\jayso\OneDrive\Desktop\Desk\Code\chip8\emulator\src\main.rs C:\Users\jayso\OneDrive\Desktop\Desk\Code\chip8\emulator\src\processor.rs
